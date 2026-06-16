@@ -1,0 +1,7 @@
+top 5 sub marks - array
+
+total, average, max, min
+
+
+# do not think about subject name
+# work with marks only
