@@ -1,6 +1,6 @@
-import array
+import array as Bundle
 
-marks = array.array("i")
+marks = Bundle.array("i")
 
 marks.append(76)
 marks.append(45)
