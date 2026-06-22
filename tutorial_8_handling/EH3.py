@@ -1,7 +1,6 @@
 # write python function to verify if email is valid or not
 # only gmail ids are valid
 
-
 def verifyEmail(email):
     if(email.endswith('@gmail.com')==False):
         raise RuntimeError("Not gmail id")
